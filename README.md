@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I´m Gerardo👋</h1>
 </div>
-<img src="[https://imgur.com/gallery/gera-bp-OocF2TL#kdcOg9L](https://imgur.com/kdcOg9L)">
+<img src="[[https://imgur.com/gallery/gera-bp-OocF2TL#kdcOg9L](https://imgur.com/kdcOg9L)](https://imgur.com/kdcOg9L)">
 
 
 
