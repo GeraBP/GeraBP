@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I´m Gerardo👋</h1>
 </div>
-<img src="https://imgur.com/kdcOg9L">
+<img src="//s.imgur.com/kdcOg9L">
 
 ## Sobre mi
 
