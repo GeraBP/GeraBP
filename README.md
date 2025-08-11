@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/kdcOg9L.png">
 </div>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.google.com/)
 &nbsp;
 
 ## Sobre mi
