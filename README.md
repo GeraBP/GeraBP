@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I´m Gerardo👋</h1>
 </div>
-<img src="[https://imgur.com/gallery/gera-bp-OocF2TL](https://imgur.com/gallery/gera-bp-OocF2TL#kdcOg9L)">
+<img src="https://imgur.com/gallery/gera-bp-OocF2TL#kdcOg9L">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
