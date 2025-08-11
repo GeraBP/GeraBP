@@ -3,6 +3,9 @@
   <img src="https://i.imgur.com/kdcOg9L.png">
 </div>
 
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
