@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I´m Gerardo👋</h1>
 </div>
-<img src="">
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="kdcOg9L"><a href="https://imgur.com/kdcOg9L">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/kdcOg9L">
 
 ## Sobre mi
 
