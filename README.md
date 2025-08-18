@@ -9,7 +9,7 @@
 
 ## About me
 
-hola
+I'm an engineer with a passion for programming. I focus primarily on efficiency and quality in each of my projects. One of my greatest strengths is my curiosity and willingness to learn and always take on new challenges. My main skills are in backend, as well as managing large volumes of information through databases, performing data extraction, transformation, and loading (ETL) processes, and administrative tasks in the IT area.
 
 - ​🔥💻​​🔥​ Passion for programming
 - 🐍 Python developer
