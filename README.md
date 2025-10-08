@@ -38,7 +38,6 @@ I'm an engineer with a passion for programming. I focus primarily on efficiency 
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
 <table>
 <tr>
