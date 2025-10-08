@@ -23,7 +23,7 @@ I'm an engineer with a passion for programming. I focus primarily on efficiency 
 <td width="50%">
 <h3 align="center">Archivos protocolo SFTP</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/GeraBP/Envi-de-archivos-por-protocolo-SFTP" target="_blank"><img src="https://i.imgur.com/toUoOMd.png" width="400" alt="Archivos protocolo SFTP"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
