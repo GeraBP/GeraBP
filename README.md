@@ -17,7 +17,7 @@ I'm an engineer with a passion for programming. I focus primarily on efficiency 
 - ♨️ Java developer
 <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
