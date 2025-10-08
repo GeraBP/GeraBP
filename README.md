@@ -24,15 +24,7 @@ I'm an engineer with a passion for programming. I focus primarily on efficiency 
 <h3 align="center">Archivos protocolo SFTP</h3>
 <div align="center">
 <a href="https://github.com/GeraBP/Envi-de-archivos-por-protocolo-SFTP" target="_blank"><img src="https://i.imgur.com/toUoOMd.png" width="400" alt="Archivos protocolo SFTP"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Programa para el monitoreo de una carpeta compartida y transferencia automática de archivos de texto (facturas) a un servidor interno mediante SFTP seguro.</p>
 </div>
                                                                                       
 </td>
