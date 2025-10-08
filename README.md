@@ -30,7 +30,6 @@ I'm an engineer with a passion for programming. I focus primarily on efficiency 
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">App Web</h3>
 <div align="center">                                       
 <a href="https://github.com/GeraBP/App-web-basica" target="_blank"><img src="https://i.imgur.com/LCCFpH2.png" width="400" alt="App Web"></a>
